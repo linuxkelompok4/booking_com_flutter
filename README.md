@@ -56,6 +56,9 @@
   <img src="https://github.com/user-attachments/assets/c5ddda02-c53d-4be5-a187-7464cda40935" width="220"/>
   <img src="https://github.com/user-attachments/assets/a6893036-5481-450d-a181-74aa4d615f89" width="220"/>
 </p>
+
+---
+
 🚀 Tentang Project
 
 **booking_com_flutter** adalah aplikasi pemesanan hotel berbasis Flutter yang dibuat untuk mensimulasikan pengalaman pemesanan hotel seperti Booking.com.
