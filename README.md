@@ -1,7 +1,7 @@
-# 🏨 booking_com_flutter
+# 🏨 Booking.com
 
 > Aplikasi UI Pemesanan Hotel Modern berbasis Flutter  
-> Terinspirasi dari Booking.com untuk kebutuhan portfolio dan tugas kuliah (UTS/UAS)
+> Terinspirasi dari Booking.com untuk kebutuhan portfolio dan tugas kuliah (UTS)
 
 ---
 
@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c5ddda02-c53d-4be5-a187-7464cda40935" width="220"/>
 </p>
-## 🚀 Tentang Project
+🚀 Tentang Project
 
 **booking_com_flutter** adalah aplikasi pemesanan hotel berbasis Flutter yang dibuat untuk mensimulasikan pengalaman pemesanan hotel seperti Booking.com.
 
@@ -65,7 +65,7 @@ Project ini berfokus pada:
 - Simulasi booking tanpa pembayaran asli
 
 Project ini dibuat untuk:
-🎓 Tugas kuliah (UTS/UAS)  
+🎓 Tugas kuliah (UTS) 
 💼 Portfolio mobile developer  
 📱 Latihan Flutter UI/UX
 
