@@ -9,12 +9,12 @@
 
 ---
 
-### 🏠 Home & Discovery
+### 🏠 Logo & Preview
 
 <p align="center">
+  
+  <img src="https://github.com/user-attachments/assets/850d5856-4fe4-4765-b72c-80d2e81979b5" width="220"/>
   <img src="https://github.com/user-attachments/assets/2f3c7ee9-b873-4ac9-9733-466404d5b89a" width="220"/>
-  <img src="https://github.com/user-attachments/assets/a6893036-5481-450d-a181-74aa4d615f89" width="220"/>
-  <img src="https://github.com/user-attachments/assets/deac783d-940b-4571-982b-c4d494506535" width="220"/>
 </p>
 
 ---
@@ -52,7 +52,9 @@
 ---
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/deac783d-940b-4571-982b-c4d494506535" width="220"/>
   <img src="https://github.com/user-attachments/assets/c5ddda02-c53d-4be5-a187-7464cda40935" width="220"/>
+  <img src="https://github.com/user-attachments/assets/a6893036-5481-450d-a181-74aa4d615f89" width="220"/>
 </p>
 🚀 Tentang Project
 
