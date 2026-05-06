@@ -89,7 +89,7 @@ Project ini dibuat untuk:
 - Validasi tanggal
 
 ### 👥 Pemilihan Tamu & Kamar
-- Jumlah kamar, dewasa, anak
+- Jumlah orang
 - Validasi input
 - Update harga otomatis
 
@@ -108,11 +108,6 @@ Project ini dibuat untuk:
 - Form data tamu
 - Rincian harga
 - Konfirmasi booking
-- Kode booking unik
-
-### ❤️ Favorit (Wishlist)
-- Simpan hotel favorit
-- Data tersimpan secara lokal
 
 ### 📖 Riwayat Booking
 - Daftar booking sebelumnya
@@ -136,3 +131,18 @@ Project ini dibuat untuk:
 ---
 
 ## 📁 Struktur Project
+
+```
+lib/
+  models/
+  screens/
+    home_screen.dart
+    detail_screen.dart
+    booking_screen.dart
+    history_screen.dart
+    profile_screen.dart
+  widgets/
+  services/
+  data/
+  main.dart
+```
